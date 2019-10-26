@@ -1,0 +1,21 @@
+#appXhDetection {
+    font-size: 14px;
+}
+
+.main-container {
+    padding: 10px;
+}
+
+/* 默认灰色值 b8bbbf*/
+.border-gray {
+    border: 1px solid #D2D2D2;
+}
+
+.border-radius {
+    border-radius: 4px;
+}
+
+/* 文本样式 */
+.text-center {
+    text-align: center;
+}

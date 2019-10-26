@@ -1,0 +1,37 @@
+#app,
+#appXhDetection {
+    font-size: 16px;
+}
+
+.main-container {
+    padding: 10px;
+}
+
+/* 默认灰色值 b8bbbf*/
+.border-gray {
+    border: 1px solid #D2D2D2;
+}
+
+.border-radius {
+    border-radius: 4px;
+}
+
+/* 文本样式 */
+.text-center {
+    text-align: center;
+}
+.margin-bottom{
+    margin-bottom:10px;
+}
+.color-border{
+    background-color: #fff;
+    border-radius: 5px;
+}
+/* 去掉input框Number类型的默认箭头 */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
